@@ -1,0 +1,6 @@
+Terraform Lifecycle:  CODE=== Write or Update your Terraform Configuration File
+                      Init=== Initialize your Project Pull latest providers and modules
+                      Plan=== Speculate what will change or generate a saved execution plan
+                      Validate=== Ensure types and values are valid, Ensures required attributes are present== validate
+                      Apply=== Execute the terraform plan provisioning the infrastructure
+                      Destroy=== Destroy the remote infrastructure
